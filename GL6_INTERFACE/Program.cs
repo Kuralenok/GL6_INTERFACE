@@ -23,6 +23,7 @@ namespace Интерфейсы
         int passport; 
         double summa_bank;
         DateTime date; 
+
         public double Summa_bank
         { 
             get { return summa_bank; }
